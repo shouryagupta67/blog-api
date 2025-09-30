@@ -77,4 +77,4 @@ API runs at http://localhost:8080
 
 📬 Contact
 
-👤 Your Name • LinkedIn
+👤 Shourya Gupta • Shouryasahu08@gmail.com
